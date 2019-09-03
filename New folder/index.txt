@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>sadiqur rahman.com | welcom</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<div id="branding">
+					<h2><span class="highlight">Sadiqur Rahman </span>Rifat</h2>
+				</div>
+				<nav>
+					<li class="current"><a href="index.html" >Home</a></li>
+					<li><a href="resume.html">Resume</a></li>
+					<li><a href="contuct.html">Contact</a></li>
+					<li><a href="project.html">Project</a></li>
+				</nav>
+			</div>
+		</header>
+		<section id="showcase">
+			<div class="container">
+				
+			<h2><span class="highlight">Wellcome To Sadiqur's blog</span> </h2>
+			<p >An informative bloging site</p>
+		
+			</div>
+		</section>
+		<div class="about" style="">
+			<div class="img" style=" padding: 20px;">
+				<img src="rifat-rem.png" style="height: 329px; width: 338px; margin-left: 500px; border-radius: 50%; ">
+				
+			</div>
+			<div class="text" style="margin:20px;  margin-left: 200px; padding-right: 150px; margin-top: 0px; " >
+				<p style="border: 1px solid gray; background-color: #F1F1F1; text-align: center; border-radius: 10px; padding: 25px; position: relative;
+					box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+					padding: 10px;">
+				Hello, I'm Sadiqur Rahman Rifat. I'm now studying at Daffodil International University at Computer Science and Engineering department. Every time I try to learn new thing. Web design and web developing kill my most of the time. Trying to be a good persion.</p>
+			</div>
+		</div>
+		
+		<section id="newsletter">
+			<div class="container">
+				<h2>Subscribe My blog</h2>
+				<form>
+					<input type="Email" name="email" placeholder="Enter Email.....">
+					<button type="submit" class="button_1">Subscribe</button>
+				</form>
+			</div>
+		</section>
+		<section id="boxes">
+			<div class="container">
+				<div class="box">
+					<img src="img/HTML5.png">
+					<h4>HTML5 Markup</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, iste.</p>
+				</div>
+				<div class="box">
+					<img src="img/css3.png">
+					<h4>CSS3 Styling</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, iste.</p>
+				</div>
+				<div class="box">
+					<img src="img/graphic.png">
+					<h4>Graphic Design</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, iste.</p>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<p>This is Design Only &copy; 2019</p>
+		</footer>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	</body>
+</html>
